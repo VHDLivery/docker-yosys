@@ -1,0 +1,14 @@
+# Local metadata and development environments
+.git
+.idea
+.venv
+**/.DS_Store
+**/._*
+**/__pycache__
+**/*.pyc
+
+# Generated simulation output
+build
+**/*.vcd
+**/*.ghw
+**/build/
